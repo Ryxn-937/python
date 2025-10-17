@@ -19,4 +19,4 @@ if "Asha" in all_participants:
 else:
     print("no,Asha not on the list")
 first_name=(WD_[0],DS_2[0],UI_[0])
-print(first_name)
+print("first names in the list are",first_name)
